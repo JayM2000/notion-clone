@@ -4,7 +4,9 @@ import { Button } from "@/components/ui/button";
 export default function Home() {
   return (
     <div>
-      <Button>create tag</Button>
+      <Button> button 1</Button>
+      <Button> button 12</Button>
+      <Button> button 3</Button>
     </div>
   );
 }
